@@ -20,3 +20,16 @@ state:
 reminder:
 1. use ` instead of ' or "
 2. onClick={function()} => go before click
+
+Deployment in github:
+
+1. package.json
+"homepage": "https://15077693d.github.io/master-rolodex",
+"scripts":{
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+    }
+
+2. git ...
+3. npm run deploy
+* rm -rf node_modules/gh-pages/.cache, when gh-pages exists
