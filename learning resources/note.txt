@@ -1,0 +1,22 @@
+components:
+
+1. card
+2. card-list
+3. search-list
+
+functional vs class 
+- functional: no state, just render
+
+props:
+
+- there are children attibute
+- children -> <component1> children</component1>
+- belong to component
+
+state:
+
+- setState(state,function after that)
+
+reminder:
+1. use ` instead of ' or "
+2. onClick={function()} => go before click

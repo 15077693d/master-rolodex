@@ -1,0 +1,35 @@
+@startuml
+class App <<component>>{
+
+==state==
+~monsters: object[]
+~searchField: string
+
+==methods==
++ componentDidMount()
++ render(): jsx
++ handleChange(e)
+}
+
+class CardList << (f,yellow) component>>{
+==props==
+#monsters: object[]
+}
+
+class Card << (f,yellow) component>>{
+==props==
+#key: string
+#monster: object
+}
+
+class SearchBox << (f,yellow) component>>{
+==props==
+#placeholder: string
+#handleChange: function
+}
+
+CardList "1" *-- "many" Card
+App "1" *-- "1" CardList
+App "1" *-- "1" SearchBox
+
+@enduml
