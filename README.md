@@ -1,3 +1,10 @@
+# Oscar's Master Rolodex
+https://15077693d.github.io/master-rolodex/
+![app](https://github.com/15077693d/master-rolodex/blob/master/learning%20resources/componet.png)
+## Exercise from below Udmey course:
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+## The Code Structure Deisign:
+![uml](https://github.com/15077693d/master-rolodex/blob/master/learning%20resources/app.uml)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
