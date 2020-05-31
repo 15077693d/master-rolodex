@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/master-rolodex/static/css/main.660b2945.chunk.css",
+    "main.js": "/master-rolodex/static/js/main.6fc528e2.chunk.js",
+    "main.js.map": "/master-rolodex/static/js/main.6fc528e2.chunk.js.map",
+    "runtime-main.js": "/master-rolodex/static/js/runtime-main.2deb060f.js",
+    "runtime-main.js.map": "/master-rolodex/static/js/runtime-main.2deb060f.js.map",
+    "static/js/2.0e987918.chunk.js": "/master-rolodex/static/js/2.0e987918.chunk.js",
+    "static/js/2.0e987918.chunk.js.map": "/master-rolodex/static/js/2.0e987918.chunk.js.map",
+    "index.html": "/master-rolodex/index.html",
+    "precache-manifest.5cdb54cb2f904e46ae261001a732026c.js": "/master-rolodex/precache-manifest.5cdb54cb2f904e46ae261001a732026c.js",
+    "service-worker.js": "/master-rolodex/service-worker.js",
+    "static/css/main.660b2945.chunk.css.map": "/master-rolodex/static/css/main.660b2945.chunk.css.map",
+    "static/js/2.0e987918.chunk.js.LICENSE.txt": "/master-rolodex/static/js/2.0e987918.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2deb060f.js",
+    "static/js/2.0e987918.chunk.js",
+    "static/css/main.660b2945.chunk.css",
+    "static/js/main.6fc528e2.chunk.js"
+  ]
+}
