@@ -4,7 +4,7 @@ https://15077693d.github.io/master-rolodex/
 ## Exercise from below Udmey course:
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 ## The Code Structure Deisign:
-![uml](https://github.com/15077693d/master-rolodex/blob/master/learning%20resources/app.uml)
+![uml](https://github.com/15077693d/master-rolodex/blob/master/learning%20resources/app.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
