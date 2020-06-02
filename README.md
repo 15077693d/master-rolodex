@@ -1,4 +1,4 @@
-# Oscar's Master Rolodex
+# Master Rolodex
 https://15077693d.github.io/master-rolodex/
 ![app](https://github.com/15077693d/master-rolodex/blob/master/learning%20resources/web.png)
 ## Exercise from below Udmey course:
